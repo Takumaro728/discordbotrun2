@@ -103,4 +103,4 @@ async def reset(interaction: discord.Interaction):
     await interaction.response.send_message("🗑️ すべての予定と参加希望をリセットしました。")
 
 # トークン（安全な方法で管理してください）
-bot.run("MTM3NjE2ODcwMjc4MDYzNzI5NA.Gm8-40.osa6XgIITF7o6aa7P3xYDR2WtF0woad8weo4Lk")
+bot.run("")
